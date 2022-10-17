@@ -1,0 +1,14 @@
+_id: env_65c8c92056a40f2891f510dbc51e4d1e56fbea56
+type: Environment
+parentId: wrk_81714fc8b35e4ed1bb0d318bd7fd66e4
+modified: 1666021262979
+created: 1665586862618
+name: Base Environment
+data:
+  baseUrl: https://api.tvmaze.com
+dataPropertyOrder:
+  "&":
+    - baseUrl
+color: null
+isPrivate: false
+metaSortKey: 1665586862618

@@ -1,0 +1,26 @@
+_id: req_1166c38a506242d5a15c25f0776f3e65
+type: Request
+parentId: fld_26a811fe6cdc4eddb33e0f2f8ef19110
+modified: 1666021535605
+created: 1666021501809
+url: "{{ _.baseUrl }}/search/people"
+name: People search
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_33a65f50095346d7942f606a65965302
+    name: q
+    value: fry
+    description: ""
+    disabled: false
+headers: []
+authentication: {}
+metaSortKey: -1663205513715.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

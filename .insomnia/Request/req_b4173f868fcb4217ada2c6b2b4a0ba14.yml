@@ -1,0 +1,25 @@
+_id: req_b4173f868fcb4217ada2c6b2b4a0ba14
+type: Request
+parentId: fld_26a811fe6cdc4eddb33e0f2f8ef19110
+modified: 1666021484638
+created: 1666021320768
+url: "{{ _.baseUrl }}/singlesearch/shows"
+name: Show single search
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_e61cd373ab054f58aa61f8ce9d8f33cf
+    name: q
+    value: girls
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1665586862671
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
